@@ -1,5 +1,7 @@
 # CursorBuilder
 
+**한국어** · [English](README.en.md) · [日本語](README.ja.md)
+
 마우스 커서(**`.cur` / `.ani`**)를 만드는 GUI 도구입니다.
 zip 또는 폴더의 커서/이미지를 읽어, 미리보기 위에서 핫스팟을 지정하고
 다중 레이어 커서로 변환합니다.
